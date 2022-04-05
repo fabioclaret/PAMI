@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application Fabio</string>
+    <string name="conta">Have you an account?</string>
+    <string name="descricao">descricao</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+</resources>
