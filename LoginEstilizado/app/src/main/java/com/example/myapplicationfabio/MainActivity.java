@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
             retorno  = false;
             senha.setError("*");
             senha.requestFocus();
-            
         }
         return retorno;
     }
